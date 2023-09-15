@@ -1,3 +1,6 @@
+// Высокий уровень
+// Вариант 13
+
 ﻿Console.Write("Введите a: ");
 double a = double.Parse(Console.ReadLine());
 
